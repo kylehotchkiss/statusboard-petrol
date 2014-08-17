@@ -1,0 +1,26 @@
+{
+  "name": "statusboard-petrol",
+  "version": "1.0.0",
+  "description": "Panic's Statusboard, IFTTT, Twitter, and Automatic all mashed together to show how much I spend on gas in a graph.",
+  "main": "index.js",
+  "dependencies": {
+    "async": "*",
+    "embedly": "*",
+    "knox": "0.8.*",
+    "minimist": "*",
+    "moment": "^2.8.1",
+    "request": "*",
+    "word": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kylehotchkiss/statusboard-petrol"
+  },
+  "author": "Kyle Hotchkiss",
+  "license": "GPL",
+  "readmeFilename": "readme.md"
+}

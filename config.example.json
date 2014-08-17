@@ -1,0 +1,19 @@
+{
+    "twitterKey": "",
+    "twitterUser": "khifttt",
+    "twitterToken": "",
+    "twitterSecret": "",
+    "twitterCallback": "",
+    "twitterHashtag": "#burn",
+    "twitterTokenSecret": "",
+
+    "graphColor": "lightGray",
+    "graphLabel": "Your Car",
+    "graphTitle": "Gas Expenses This Week",
+
+    "awsKey": "",
+    "awsPath": "api/petrol.json",
+    "awsSecret": "",
+    "awsBucket": ""
+
+}

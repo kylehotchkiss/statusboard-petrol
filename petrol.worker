@@ -1,0 +1,4 @@
+runtime "node"
+exec "index.js"
+dir "node_modules"
+file "config.json"
